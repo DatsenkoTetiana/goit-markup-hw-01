@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../mogo"
+	},
+	{
+		"path": "../resyme"
+	}
+],
+  "settings": {}
+}
